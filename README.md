@@ -9,13 +9,13 @@ The feedback updates automatically based on the scores, following a clear and ea
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Novamxter/speaking-assessment-report-ui.git
    ```
 
 2. Navigate into the project folder:
 
    ```bash
-   cd project-folder-name
+   cd speaking-assessment-report-ui
    ```
 
 3. Install dependencies:
