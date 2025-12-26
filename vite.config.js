@@ -5,5 +5,5 @@ import tailwindcss from "@tailwindcss/vite";
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: "/speaking-assessment-report-ui"
+  base: "/speaking-assessment-report-ui/"
 });
